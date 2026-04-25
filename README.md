@@ -188,6 +188,6 @@ No manual conversion needed — drop any compatible `.pt` into `models/` and it 
 
 
 ## 👨‍💻 Author
-Harsh Kumar
+Chirag Avasthi
 
 GPU (CUDA) is used automatically if available. CPU fallback is fully supported.
