@@ -39,7 +39,7 @@ The system analyzes video frames and detects inconsistencies to classify the con
 
 1. Clone the repository:
 
-git clone https://github.com/talkwithharsh/deepfake-video-detection.git
+git clone https://github.com/ChiragAvasthi/deepfake-video-detection.git
 
 cd deepfake-video-detection
 
